@@ -27,3 +27,25 @@ The following is the breakdown of the analysis:
 * % passing reading (the percentage of students who passed reading)
 
 * % overall passing (the percentage of students who passed math AND reading)
+
+### School Summary
+
+* School name
+
+* School type
+
+* Total students
+
+* Total school budget
+
+* Per student budget
+
+* Average math score
+
+* Average reading score
+
+* % passing math (the percentage of students who passed math)
+
+* % passing reading (the percentage of students who passed reading)
+
+* % overall passing (the percentage of students who passed math AND reading)
